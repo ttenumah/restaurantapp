@@ -4,7 +4,7 @@
     "default": {
       "connector": "mongoose",
       "settings": {
-        "database": "backend",
+        "database": "restaurant",
         "host": "localhost",
         "srv": false,
         "port": 27017,
